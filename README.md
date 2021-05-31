@@ -15,7 +15,7 @@ This project is a simple console based application developed using core concepts
 
 ![image](https://user-images.githubusercontent.com/62430470/120160592-08573700-c214-11eb-82fd-112c0d3e068c.png) ![image](https://user-images.githubusercontent.com/62430470/120160629-11e09f00-c214-11eb-8314-f7bed52477b8.png)
 
-![image](https://user-images.githubusercontent.com/62430470/120160649-186f1680-c214-11eb-9ff8-c97fbafdc812.png) ![image](https://user-images.githubusercontent.com/62430470/120160661-1dcc6100-c214-11eb-87d3-1bb650ac0ed2.png)
+![image](https://user-images.githubusercontent.com/62430470/120160649-186f1680-c214-11eb-9ff8-c97fbafdc812.png) ![image](https://user-images.githubusercontent.com/62430470/120160694-27ee5f80-c214-11eb-96c0-3dba90edc699.png)
 
-        ![image](https://user-images.githubusercontent.com/62430470/120160694-27ee5f80-c214-11eb-96c0-3dba90edc699.png)
+![image](https://user-images.githubusercontent.com/62430470/120160661-1dcc6100-c214-11eb-87d3-1bb650ac0ed2.png)
 
